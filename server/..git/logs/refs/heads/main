@@ -1,0 +1,47 @@
+0000000000000000000000000000000000000000 a2fcac56e0f466052279224996622f4ac3f49bee Tam Phi <thphi29@gmail.com> 1712810669 -0700	commit (initial): service layer and routing call init
+a2fcac56e0f466052279224996622f4ac3f49bee ca21b01440b5b348208de49c480485f0725adc3d Tam Phi <thphi29@gmail.com> 1712810694 -0700	commit: routing user signup
+ca21b01440b5b348208de49c480485f0725adc3d b3b13619455a2346e078fed93536861bb811b788 Tam Phi <thphi29@gmail.com> 1712810719 -0700	commit: user layers
+b3b13619455a2346e078fed93536861bb811b788 09f515d9c452d326a01418d141ffaac2eaaf2213 Tam Phi <thphi29@gmail.com> 1712810755 -0700	commit: db spinup
+09f515d9c452d326a01418d141ffaac2eaaf2213 5ec199e0bde215c2a72d8958266405e33200324d Tam Phi <thphi29@gmail.com> 1712810983 -0700	commit: db migrate
+5ec199e0bde215c2a72d8958266405e33200324d 3bb8d08087b7ee03e6cf269c9ce0bb7060659ae6 Tam Phi <thphi29@gmail.com> 1712811029 -0700	commit: connect to db
+3bb8d08087b7ee03e6cf269c9ce0bb7060659ae6 354bba574bdc60a422d77182d285dde5d730d9e4 Tam Phi <thphi29@gmail.com> 1712811739 -0700	commit: print error
+354bba574bdc60a422d77182d285dde5d730d9e4 563b47601b049e9dfec06618a75a55fce6bbe0df Tam Phi <thphi29@gmail.com> 1712814785 -0700	commit: user login request
+563b47601b049e9dfec06618a75a55fce6bbe0df f2eb7eed2da749c684f18a078485a7d535599d80 Tam Phi <thphi29@gmail.com> 1712814809 -0700	commit: login service
+f2eb7eed2da749c684f18a078485a7d535599d80 d037f17e454e0a30feca99282f85219dd03ba896 Tam Phi <thphi29@gmail.com> 1712814844 -0700	commit: service controller for login
+d037f17e454e0a30feca99282f85219dd03ba896 991647a0777c84fd2c2f1489a8867a3f889b832b Tam Phi <thphi29@gmail.com> 1712814875 -0700	commit: routing login req wip
+991647a0777c84fd2c2f1489a8867a3f889b832b 395833c45ae206e006f5bb49d654cd9124deca66 Tam Phi <thphi29@gmail.com> 1712819054 -0700	commit: fix naming for clarity
+395833c45ae206e006f5bb49d654cd9124deca66 8b8b246aa603d91c35d4363dfd77d671cdaa17e0 Tam Phi <thphi29@gmail.com> 1712821670 -0700	commit: hashed pswd wip
+8b8b246aa603d91c35d4363dfd77d671cdaa17e0 13bf4f121bbc2f010aa046c2e64471d78efa84b6 Tam Phi <thphi29@gmail.com> 1712824247 -0700	commit: wip: password hashing and checking
+13bf4f121bbc2f010aa046c2e64471d78efa84b6 74bc9af0017ac04016158ee21722c3af33a723c9 Tam Phi <thphi29@gmail.com> 1712826844 -0700	commit: wip: check pswd hash
+74bc9af0017ac04016158ee21722c3af33a723c9 a1f12f53f5ca3976b0b486f0d4051ca4362a8a7c Tam Phi <thphi29@gmail.com> 1712826865 -0700	commit: wip: check pswd hash
+a1f12f53f5ca3976b0b486f0d4051ca4362a8a7c fc5601f82163176e3cbbe96ea3a7a31be203c91e Tam Phi <thphi29@gmail.com> 1712826915 -0700	commit: wip: hash password and user login
+fc5601f82163176e3cbbe96ea3a7a31be203c91e dbfdc7296906e593a11ab051a2473688d26d27ae Tam Phi <thphi29@gmail.com> 1712828435 -0700	commit: wip: jwt
+dbfdc7296906e593a11ab051a2473688d26d27ae 1d96288707210b079c90d86d11741aacbe92feb1 Tam Phi <thphi29@gmail.com> 1712829152 -0700	commit: user login
+1d96288707210b079c90d86d11741aacbe92feb1 c0c530e65de805e0f36f781ad0ea45da5db9fc06 Tam Phi <thphi29@gmail.com> 1712829359 -0700	commit: rename controller var for clarity
+c0c530e65de805e0f36f781ad0ea45da5db9fc06 1b1a354ca55cae13d1a5bde562f6111b55e05590 Tam Phi <thphi29@gmail.com> 1712857864 -0700	commit: logout wip
+1b1a354ca55cae13d1a5bde562f6111b55e05590 cec7750246b5cca5082cc357de59c33545261509 Tam Phi <thphi29@gmail.com> 1712857982 -0700	commit: wip
+cec7750246b5cca5082cc357de59c33545261509 493e3272d2e9e2e253cfe694b291b4ec145320cb Tam Phi <thphi29@gmail.com> 1712868097 -0700	commit: wip
+493e3272d2e9e2e253cfe694b291b4ec145320cb dbc75301cedd34793c26407b5bd8f1fea2751756 Tam Phi <thphi29@gmail.com> 1712868398 -0700	commit: wip: client & msg struct
+dbc75301cedd34793c26407b5bd8f1fea2751756 78f8068978c7d6a558dc8bb84fc56531355cc642 Tam Phi <thphi29@gmail.com> 1712868457 -0700	commit: naming
+78f8068978c7d6a558dc8bb84fc56531355cc642 0f945cffdb5ac02ca35801d53b8d170b46df68c6 Tam Phi <thphi29@gmail.com> 1712868468 -0700	commit: naming
+0f945cffdb5ac02ca35801d53b8d170b46df68c6 378a1bd0f6ff6e069eafef392f44f755b564350c Tam Phi <thphi29@gmail.com> 1712868716 -0700	commit: rename service.go
+378a1bd0f6ff6e069eafef392f44f755b564350c 2c56f6ab89631c760e64fc3fdbbca2584c4548ca Tam Phi <thphi29@gmail.com> 1712868754 -0700	commit: rename controller.go
+2c56f6ab89631c760e64fc3fdbbca2584c4548ca efb844cb659b52a9fabf7b718d2fff2e9dde60b1 Tam Phi <thphi29@gmail.com> 1712870184 -0700	commit: only allow 1 username
+efb844cb659b52a9fabf7b718d2fff2e9dde60b1 6faa126cfda925ceaa3fe48dadae271c0746aa98 Tam Phi <thphi29@gmail.com> 1712871476 -0700	commit: wip: controller struct and constructor
+6faa126cfda925ceaa3fe48dadae271c0746aa98 473284ba542bd8d24b0c4ba5ae6eb591b68d0d9c Tam Phi <thphi29@gmail.com> 1712871678 -0700	commit: remove comment
+473284ba542bd8d24b0c4ba5ae6eb591b68d0d9c 66ab057db8eb8d14998e2da11d3af170d19c7d38 Tam Phi <thphi29@gmail.com> 1712872478 -0700	commit: establish ws endpoint for createroom
+66ab057db8eb8d14998e2da11d3af170d19c7d38 c062eb6cba649c76e231ea540d51f92cc9182e4b Tam Phi <thphi29@gmail.com> 1712872489 -0700	commit: establish ws endpoint for createroom
+c062eb6cba649c76e231ea540d51f92cc9182e4b 92c47aa3080b76c09d78a19a3e66247aab7806e1 Tam Phi <thphi29@gmail.com> 1712872647 -0700	commit: wip ws
+92c47aa3080b76c09d78a19a3e66247aab7806e1 791507492f930d7e582cba113767ccc1ca7660b5 Tam Phi <thphi29@gmail.com> 1712872718 -0700	commit: filename
+791507492f930d7e582cba113767ccc1ca7660b5 1d49c5c5f047be2cda31d12bb9a87a520366f316 Tam Phi <thphi29@gmail.com> 1712873241 -0700	commit: error msg for creating new account with existing username
+1d49c5c5f047be2cda31d12bb9a87a520366f316 d36a0030525a7abaabdc5830703626ec53880dc4 Tam Phi <thphi29@gmail.com> 1712873384 -0700	commit: filename
+d36a0030525a7abaabdc5830703626ec53880dc4 9b73ab80e6a535db119e96dca3a0e79214d66c97 Tam Phi <thphi29@gmail.com> 1712873423 -0700	commit: filename
+9b73ab80e6a535db119e96dca3a0e79214d66c97 c25c655bca8656e9338d04f65e10be243732e58d Tam Phi <thphi29@gmail.com> 1712896007 -0700	commit: fix cors error on browser
+c25c655bca8656e9338d04f65e10be243732e58d 55489fc9f2c5052fece493709a899ffca2d72a42 Tam Phi <thphi29@gmail.com> 1712909924 -0700	commit: display all users
+55489fc9f2c5052fece493709a899ffca2d72a42 b2d5b158b753f2fd29733247b646c3addb0c7b6b Tam Phi <thphi29@gmail.com> 1712909974 -0700	commit: routing to chat page
+b2d5b158b753f2fd29733247b646c3addb0c7b6b 8b75cfab478eb57395a270a030d2b2877ca42f3a Tam Phi <thphi29@gmail.com> 1712956145 -0700	commit: wip: private chat
+8b75cfab478eb57395a270a030d2b2877ca42f3a 37c4ee97999d4f5aa1f8a764f2068ae8e5dac9c9 Tam Phi <thphi29@gmail.com> 1712995930 -0700	commit: wip
+37c4ee97999d4f5aa1f8a764f2068ae8e5dac9c9 adb15acb84dc2f0820870483555fa13b324287f2 Tam Phi <thphi29@gmail.com> 1712996071 -0700	commit: docker
+adb15acb84dc2f0820870483555fa13b324287f2 189ca28b396ab2a9f710bd2b054445505ae42364 Tam Phi <thphi29@gmail.com> 1712996195 -0700	commit: chat history
+189ca28b396ab2a9f710bd2b054445505ae42364 bfe6cd138e6ba9c23af79c4bf937e97d5d195baf Tam Phi <thphi29@gmail.com> 1713009339 -0700	commit: default message and unregister user from chatroom msg
+bfe6cd138e6ba9c23af79c4bf937e97d5d195baf e90c8242b80aad26a2fc99f183b13f06058d641f Tam Phi <thphi29@gmail.com> 1713012225 -0700	commit: clean up code
