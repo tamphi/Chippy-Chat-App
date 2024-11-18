@@ -43,8 +43,6 @@ This is a real-time webchat application. Once users log in, they can see all oth
 
 # FUTURE CONSIDERATION
 
-This is my first time working on an full-stack application project and using all of the tools for this project so it was a great opportunity for me to learn new frameworks, programming languages (Golang), and design flow (database design). In the future, the following would be areas of development that I would like to work on for this project
-
 1. Message reaction and emoji features
 2. User profile creation: display name, profile picture
 3. UI for alerting users when login and signup fails due to wrong password and exisiting username
